@@ -1,5 +1,5 @@
 
-# telegram gcloner
+# telegram fcloner
 
 A Telegram bot to facilitate manual saving of Google Drive resources. If you have a good idea, PR is welcome.
 
